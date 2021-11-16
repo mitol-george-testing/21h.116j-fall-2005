@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d7f32266-6f58-3606-54fa-d4b85b599d5e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Civil War and Reconstruction",
+  "course_description": "Although attention will be devoted to the causes and long-term consequences of the Civil War, this class will focus primarily on the war years (1861-1865) with special emphasis on the military and technological aspects of the conflict. Four questions, long debated by historians, will receive close scrutiny:\n\n1.  What caused the war?\n2.  Why did the North win the war?\n3.  Could the South have won?\n4.  To what extent is the Civil War America's \"defining moment\"?\n",
+  "department_numbers": [
+    "21H",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.029J",
+  "primary_course_number": "21H.116J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
